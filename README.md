@@ -2,10 +2,11 @@
 
 ### 사용 모델 
 https://huggingface.co/skt/ko-gpt-trinity-1.2B-v0.5
-skt의 ko-gpt-trinity-1.2B-v0.5
+- skt의 ko-gpt-trinity-1.2B-v0.5
 
 
 ### 입력 프롬포트 내용
+- 총 10개의 첫 문장 예시를 랜덤으로 부여해 이야기 생성
 <img width="1282" height="239" alt="image" src="https://github.com/user-attachments/assets/a4805407-940e-480c-94ad-cfab46f83e97" />
 
 
